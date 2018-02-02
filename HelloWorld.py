@@ -6,9 +6,9 @@
 #Title of the Program : The Hello World Python Program
 #Author of the program : Sanjeev Kumar
 #Date and Time of Creation : 02/02/2018 16:00 GMT
-#Version of the program : 0.1
+#Version of the program : 0.2
 #Description : This is Sanjeev's first program in python. This program prints Hello World.
-#The version on the python used by Sanjeev is 2.7.6
+#The version of the python used by Sanjeev is 2.7.6
 
 ###Import Statements
 ###Local Functions
